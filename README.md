@@ -9,8 +9,11 @@
 # Features
 
 **1.** Set a logging channel
-**2.** Alerts the bot owner and the server staff when the bot receives a potential DM advertisement
-**3.** Shows you the DM message
+
+**2.**
+Alerts the bot owner and the server staff when the bot receives a potential DM advertisement
+**3.**
+Shows you the DM message
 **4.** Tells you who sent it
 
 # How To Setup
