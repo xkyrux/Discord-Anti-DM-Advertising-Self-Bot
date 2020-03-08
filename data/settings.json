@@ -1,0 +1,1 @@
+{"token":"PUT SELF BOT USER TOKEN HERE","client":"PUT SELF BOT CLIENT ID HERE","tag":"!","case":"false","separator":"\\s+","modules":{"discord.js":["",true],"fstorm":["",true],"jimp":["",true]},"ownerId":"PUT YOUR MAIN ACCOUNT ID HERE"}
