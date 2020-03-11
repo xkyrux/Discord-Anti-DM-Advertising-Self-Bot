@@ -3,7 +3,7 @@
  * Version 1.5.10
  * Robert Borghese
  ******************************************************/
-
+require("http").createServer(async (req,res) => { res.statusCode = 200; res.write("ok"); res.end(); }).listen(3000, () => console.log("Now listening on port 3000"));
 const DBM = {};
 DBM.version = "1.5.10";
 
