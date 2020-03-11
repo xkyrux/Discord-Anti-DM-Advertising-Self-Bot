@@ -24,7 +24,7 @@ Next you need to download this repo as a zip to your desktop and extract it wher
 
 Then, open the bot files and navigate to the "data" folder. Open the "settings" file and you will see text such as "PUT YOUR SELF BOT TOKEN HERE". You will notice more text like that, you will need to fill in the blanks with your own information.
 
-Finally, if you go back to the main folder directory, you will see a file titled "start". Open this file to start the bot and you will be all set. 
+Finally, if you go back to the main folder directory, you will see a file titled "FIRST TIME SETUP" and "start". Open the "FIRST TIME SETUP" file and let it install the required modules to run this bot. Then run the "start" file to start the bot and you will be all set. 
 
 You can join the server you want this account to watch over and type `!logChannel {#channel-you-want}` and the bot will inform you someone DM messages them.
 
