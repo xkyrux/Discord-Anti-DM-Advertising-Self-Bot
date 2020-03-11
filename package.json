@@ -2,6 +2,7 @@
   "name": "discord-bot-maker-bot",
   "author": "Robert Borghese",
   "main": "bot.js",
+  "scripts": {"start": "node bot.js"},
   "version": "1.5.10",
   "dependencies": {
     "discord.js": "^11.5.1",
